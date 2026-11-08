@@ -1,0 +1,7 @@
+[2026-11-08T14:49:19Z] === AST ITERATION 1 START | repo=canonical/sdcore-webui-operator sha=46a73493 ===
+[2026-11-08T14:49:19Z] [iter=1] PHASE START: ast repo=canonical/sdcore-webui-operator sha=46a73493
+[2026-11-08T14:49:19Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T14:49:47Z] [iter=1] AST chunks built count=1 triples=240735
+[2026-11-08T14:49:47Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/46a734935a9410bebb75a262f01f7fc8cb793388/.complete
+[2026-11-08T14:49:47Z] [iter=1] PHASE END: ast elapsed_s=28 elapsed_min=0.5
+[2026-11-08T14:49:47Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

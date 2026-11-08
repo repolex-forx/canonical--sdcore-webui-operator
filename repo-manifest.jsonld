@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-webui-operator/commit/46a734935a9410bebb75a262f01f7fc8cb793388",
       "git:hexsha": "46a734935a9410bebb75a262f01f7fc8cb793388",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev458"
     },
     {
