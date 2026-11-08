@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-webui-operator",
+  "versions": [
+    {
+      "commit": "46a734935a9410bebb75a262f01f7fc8cb793388",
+      "tag": "rev458",
+      "parsed_at": "2026-11-08T14:50:47.167373+00:00"
+    }
+  ]
+}
